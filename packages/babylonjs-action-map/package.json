@@ -1,0 +1,18 @@
+{
+  "name": "babylonjs-action-map",
+  "version": "1.0.0",
+  "description": "",
+  "main": "src/index.ts",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@babylonjs/core": "^5.*"
+  },
+  "peerDependencies": {
+    "@babylonjs/core": "^5.*"
+  }
+}
